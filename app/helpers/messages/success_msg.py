@@ -1,0 +1,23 @@
+MSG_CREATED_RECORD = "Registro creado exitosamente"
+MSG_UPDATED_RECORD = "Registro actualizado correctamente"
+MSG_OBTAINED_RECORD = "Registro obtenido correctamente" 
+MSG_DELETED_RECORD = "Registro eliminado correctamente"
+
+# MSG_CREATED_JWT = "JWT creado correctamente"
+
+SUCCESS_CODE_2001 = "2001"
+SUCCESS_MSG_2001 = "Exito: Base de datos creada"
+SUCCESS_CODE_2004 = "2004"
+SUCCESS_MSG_2004 = "Exito: Base de datos borrada"
+SUCCESS_CODE_3001 = "3001"
+SUCCESS_MSG_3001 = "Exito: Redireccionamiento en el servidor"
+SUCCESS_CODE_200 = "200"
+SUCCESS_MSG_201 = "Exito: Conexión con la base de datos"
+SUCCESS_MSG_202 = "Exito: Conexión con el servidor"
+SUCCESS_CODE_2011 = "2011"
+SUCCESS_CODE_2012 = "2012"
+SUCCESS_CODE_2014 = "2014"
+
+SUCCESS_STATUS_200 = "200 OK"
+SUCCESS_STATUS_201 = "201 OK"
+SUCCESS_STATUS_204 = "204 OK"
